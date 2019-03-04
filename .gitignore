@@ -328,3 +328,6 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+GameOfLife/GameOfLife.vcxproj.filters
+GameOfLife/GameOfLife.vcxproj
+GameOfLife.sln
